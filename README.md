@@ -1,2 +1,2 @@
 # liveProjectReports
-This is a collection of the stories I completed while taking part in a two week  sprint. 
+This is a small collection of reports I wrote during my two week sprint at The Tech Academy. 
